@@ -8,7 +8,7 @@
 #include <signal.h>
 #include <termios.h>
 
-// Alton Panton
+
 
 // Function: void parse(char *line, char **argv1)
 // Purpose : This function takes in a null terminated string pointed to by 
